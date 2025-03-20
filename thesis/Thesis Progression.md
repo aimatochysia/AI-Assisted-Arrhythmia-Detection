@@ -1,0 +1,9 @@
+- [x] title
+- [x] base description
+- [ ] Journal readings
+- [ ] writings
+- [x] getting database
+- [ ] training from database
+- [ ] create mockup IoT product
+- [ ] Editing
+- [ ] Submission
