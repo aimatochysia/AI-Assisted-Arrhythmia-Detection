@@ -1,9 +1,9 @@
 - [x] title
-- [x] base description
+- [x] base description - [[Thesis Base]]
 - [ ] Journal readings
-- [ ] writings
-- [x] getting database
-- [ ] training from database
-- [ ] create mockup IoT product
+- [ ] writings - [[Thesis Structure]] 
+- [x] getting database - [Proposed Database](https://www.kaggle.com/code/blackswordsman/arrhythmia-disease-prediction-using-cnn/input)
+- [ ] training from database 
+- [ ] create mockup IoT product - [[IoT Steps]]
 - [ ] Editing
 - [ ] Submission

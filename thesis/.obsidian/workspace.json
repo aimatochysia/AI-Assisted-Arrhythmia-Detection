@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f993ff8facc6a6d",
+        "id": "980a16cea4bbd5f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfe6ab3c0d850a8",
+            "id": "b791e602ad1b6efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bfe6ab3c0d850a8",
+  "active": "b791e602ad1b6efc",
   "lastOpenFiles": [
+    "Thesis Structure.md",
+    "Thesis Base.md",
+    "Thesis Progression.md",
+    "[Thesis Structure.md",
+    "IoT Steps.md",
     "Pasted image 20250419161418.png",
     "Pasted image 20250419161345.png",
     "Pasted image 20250419161305.png",
@@ -179,10 +184,6 @@
     "Pasted image 20250419161030.png",
     "Pasted image 20250419160952.png",
     "Pasted image 20250419160446.png",
-    "Pasted image 20250419160249.png",
-    "Pasted image 20250419160053.png",
-    "Thesis Progression.md",
-    "Thesis Base.md",
-    "IoT Steps.md"
+    "Pasted image 20250419160249.png"
   ]
 }
